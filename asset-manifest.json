@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.69cff126.css",
-    "main.js": "/static/js/main.f3301353.js",
-    "static/js/787.95704e08.chunk.js": "/static/js/787.95704e08.chunk.js",
+    "main.css": "/static/css/main.86682c2a.css",
+    "main.js": "/static/js/main.305f889c.js",
+    "static/js/453.967c27ec.chunk.js": "/static/js/453.967c27ec.chunk.js",
     "static/media/backyard.jpg": "/static/media/backyard.97784863cc42363f106d.jpg",
     "static/media/franklin_mountain_home.jpg": "/static/media/franklin_mountain_home.b1cc5241d9804dffc028.jpg",
     "static/media/desert_home_1.jpg": "/static/media/desert_home_1.b4c8aec6ac7a81e5302f.jpg",
@@ -13,17 +13,16 @@
     "static/media/sprinkler.jpg": "/static/media/sprinkler.0c97e406093ea589e09a.jpg",
     "static/media/ground.jpg": "/static/media/ground.d24069709b09c26b96e6.jpg",
     "static/media/grass.jpg": "/static/media/grass.3dc768c843fd554944c2.jpg",
-    "static/media/companyLogo.png": "/static/media/companyLogo.4680d725c242fd858a06.png",
     "static/media/bk_garden2.jpg": "/static/media/bk_garden2.c18b3b7325fba021772c.jpg",
     "static/media/bk_garden.jpg": "/static/media/bk_garden.4f29c92765264c1c1f65.jpg",
     "static/media/hardScaping.jpg": "/static/media/hardScaping.2da4acf688f032a9a58f.jpg",
     "index.html": "/index.html",
-    "main.69cff126.css.map": "/static/css/main.69cff126.css.map",
-    "main.f3301353.js.map": "/static/js/main.f3301353.js.map",
-    "787.95704e08.chunk.js.map": "/static/js/787.95704e08.chunk.js.map"
+    "main.86682c2a.css.map": "/static/css/main.86682c2a.css.map",
+    "main.305f889c.js.map": "/static/js/main.305f889c.js.map",
+    "453.967c27ec.chunk.js.map": "/static/js/453.967c27ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69cff126.css",
-    "static/js/main.f3301353.js"
+    "static/css/main.86682c2a.css",
+    "static/js/main.305f889c.js"
   ]
 }
